@@ -1,0 +1,1 @@
+GET https://api.themoviedb.org/3/movie/550?api_key=27af02b04476c5c2ee2a4e75b5adbbfb HTTP/1.1
